@@ -40,5 +40,5 @@ Gulp-watcher следит за изменением файлов .html и так
 
 
 Временно размещено на тестовом сервере:
-[С jQuery](http://w95004uj.bget.ru/)
-[Без jQuery](http://w95004uj.bget.ru/index2.html)
+- [С jQuery](http://w95004uj.bget.ru/)
+- [Без jQuery](http://w95004uj.bget.ru/index2.html)
